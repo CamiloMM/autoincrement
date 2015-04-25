@@ -2,7 +2,7 @@
 Clever auto-incrementing variable that works by magic.
 
 ```bash
-npm install autoincrement # not available yet! wait until tomorrow.
+npm install autoincrement
 ```
 
 ### What is it?
@@ -45,7 +45,7 @@ Just remember to use number coercion (`+autoincrement`) when you need the number
 
 ### What number is it? Does it start from one?
 
-It doesnt' start from one! And that is another feature.
+It doesn't start from one! And that is another feature.
 
 Consider that you'll at some point reboot the server. You still want new auto-incrementing numbers later, but you don't want having to persist the last one in a database, that's too much hassle. Still, you want the next run of your app to have auto-incrementing numbers that don't start over again.
 
