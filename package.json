@@ -1,6 +1,6 @@
 {
   "name": "autoincrement",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Clever auto-incrementing variable that works by magic.",
   "main": "main.js",
   "scripts": {
